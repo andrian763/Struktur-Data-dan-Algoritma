@@ -1,0 +1,2 @@
+# Struktur Data dan Algoritma
+Proyek ini merupakan simulasi sistem antrian pasien berdasarkan tingkat keparahan (hijau, kuning, merah) menggunakan struktur data priority queue (heapq) dalam bahasa Python. Program dikembangkan sebagai tugas mata kuliah Struktur Data dan Algoritma, dilengkapi fitur pendaftaran pasien, pencarian data, pengelolaan ambulans, serta estimasi waktu kedatangan ambulans menggunakan multithreading (Timer).
